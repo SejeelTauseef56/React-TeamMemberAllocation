@@ -16,4 +16,6 @@ By default, Replit runs the `dev` script, but you can configure it by changing t
 
 Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
 
+Team Member Allocation is a web-based application built using React js which allows you to easily assign employees to different teams and view their team members. With this application, you can create new teams and assign employees to them, or move existing employees between teams. You can also view the full list of employees for each team, allowing you to quickly see who is on each team and make adjustments as needed. This project is perfect for managers or team leaders who need a simple way to manage their team allocations and keep track of their employees.
+
 <img src="/Project.gif" alt="Alt text" title="Optional title">
